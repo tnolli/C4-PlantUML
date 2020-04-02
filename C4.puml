@@ -4,7 +4,7 @@
 ' Colors
 ' ##################################
 
-!define ELEMENT_FONT_COLOR #FFFFFF
+!define ELEMENT_FONT_COLOR #000000
 
 ' Styling
 ' ##################################
