@@ -19,14 +19,14 @@ skinparam rectangle<<container>> {
     StereotypeFontColor ELEMENT_FONT_COLOR
     FontColor ELEMENT_FONT_COLOR
     BackgroundColor CONTAINER_BG_COLOR
-    BorderColor #3C7FC0
+    BorderColor #ffd24d
 }
 
 skinparam database<<container>> {
     StereotypeFontColor ELEMENT_FONT_COLOR
     FontColor ELEMENT_FONT_COLOR
     BackgroundColor CONTAINER_BG_COLOR
-    BorderColor #3C7FC0
+    BorderColor #ffd24d
 }
 
 ' Layout
